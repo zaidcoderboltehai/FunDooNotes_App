@@ -1,0 +1,15 @@
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\bin\Debug\net6.0\FunDooNotes_App.BLL.deps.json
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\bin\Debug\net6.0\FunDooNotes_App.BLL.dll
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\bin\Debug\net6.0\FunDooNotes_App.BLL.pdb
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\bin\Debug\net6.0\FunDooNotes_App.DAL.dll
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\bin\Debug\net6.0\FunDooNotes_App.DAL.pdb
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\FunDooNotes_App.BLL.csproj.AssemblyReference.cache
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\FunDooNotes_App.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\FunDooNotes_App.BLL.AssemblyInfoInputs.cache
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\FunDooNotes_App.BLL.AssemblyInfo.cs
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\FunDooNotes_App.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\FunDooNo.4A9B8283.Up2Date
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\FunDooNotes_App.BLL.dll
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\refint\FunDooNotes_App.BLL.dll
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\FunDooNotes_App.BLL.pdb
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\ref\FunDooNotes_App.BLL.dll
