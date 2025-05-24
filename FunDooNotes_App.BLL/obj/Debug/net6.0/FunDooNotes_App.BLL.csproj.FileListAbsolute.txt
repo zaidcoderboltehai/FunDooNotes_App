@@ -13,3 +13,4 @@ C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\
 C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\refint\FunDooNotes_App.BLL.dll
 C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\FunDooNotes_App.BLL.pdb
 C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\ref\FunDooNotes_App.BLL.dll
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.BLL\obj\Debug\net6.0\FunDooNotes_App.BLL.sourcelink.json

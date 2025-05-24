@@ -10,3 +10,4 @@ C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.DAL\obj\Debug\
 C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.DAL\obj\Debug\net6.0\refint\FunDooNotes_App.DAL.dll
 C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.DAL\obj\Debug\net6.0\FunDooNotes_App.DAL.pdb
 C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.DAL\obj\Debug\net6.0\ref\FunDooNotes_App.DAL.dll
+C:\Users\Zaid Ansari\source\repos\FunDooNotes_App\FunDooNotes_App.DAL\obj\Debug\net6.0\FunDooNotes_App.DAL.sourcelink.json

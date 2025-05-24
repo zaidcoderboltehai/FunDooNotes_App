@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Identity;
 using FunDooNotes_App.BLL.Interfaces;
 using FunDooNotes_App.DAL.Entities;
 using FunDooNotes_App.DAL.Repositories;
-using Microsoft.AspNetCore.Identity;
 using System;
 using System.Threading.Tasks;
 
@@ -22,21 +21,21 @@ namespace FunDooNotes_App.BLL.Services
 
         public async Task<User> RegisterAsync(User user, string password)
         {
-            // Check if user already exists
-            var existingUser = await _userRepository.GetByUsernameAsync(user.Username);
+            // Check if a user with the same email exists
+            var existingUser = await _userRepository.GetByEmailAsync(user.Email);
             if (existingUser != null)
-                throw new Exception("User already exists");
+                throw new Exception("User with this email already exists");
 
-            // Hash the password
+            // Hash the password (so if you pass "zaid", the stored value will be hashed)
             user.PasswordHash = _passwordHasher.HashPassword(user, password);
 
             await _userRepository.AddAsync(user);
             return user;
         }
 
-        public async Task<User?> LoginAsync(string username, string password)
+        public async Task<User?> LoginAsync(string email, string password)
         {
-            var user = await _userRepository.GetByUsernameAsync(username);
+            var user = await _userRepository.GetByEmailAsync(email);
             if (user == null)
                 return null;
 

@@ -1,4 +1,4 @@
-﻿// FunDooNotes_App.WebAPI/Controllers/AuthController.cs
+﻿using FunDooNotes_App.WebAPI.Models;
 using FunDooNotes_App.BLL.Interfaces;
 using FunDooNotes_App.DAL.Entities;
 using Microsoft.AspNetCore.Mvc;
@@ -21,11 +21,15 @@ namespace FunDooNotes_App.WebAPI.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegisterRequest request)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             try
             {
                 var user = new User
                 {
-                    Username = request.Username,
+                    FirstName = request.FirstName,
+                    LastName = request.LastName,
                     Email = request.Email
                 };
 
@@ -41,25 +45,15 @@ namespace FunDooNotes_App.WebAPI.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginRequest request)
         {
-            var user = await _userService.LoginAsync(request.Username, request.Password);
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var user = await _userService.LoginAsync(request.Email, request.Password);
             if (user == null)
                 return Unauthorized(new { error = "Invalid credentials" });
 
-            // JWT token generation add kar sakte hain yahan
+            // Aap yahan JWT token generation ka code bhi add kar sakte hain.
             return Ok(new { message = "Login successful", userId = user.Id });
         }
-    }
-
-    public class RegisterRequest
-    {
-        public string Username { get; set; } = string.Empty;
-        public string Email { get; set; } = string.Empty;
-        public string Password { get; set; } = string.Empty;
-    }
-
-    public class LoginRequest
-    {
-        public string Username { get; set; } = string.Empty;
-        public string Password { get; set; } = string.Empty;
     }
 }

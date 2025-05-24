@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Migrations\\20250301060741_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FunDooNotes_App.WebAPI\\Migrations\\20250301060741_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|solutionrelative:fundoonotes_app.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.webapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|solutionrelative:fundoonotes_app.webapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.webapi\\fundoonotes_app.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|solutionrelative:fundoonotes_app.webapi\\fundoonotes_app.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|solutionrelative:fundoonotes_app.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.webapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|solutionrelative:fundoonotes_app.webapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.webapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|solutionrelative:fundoonotes_app.webapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|solutionrelative:fundoonotes_app.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.webapi\\fundoonotes_app.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|solutionrelative:fundoonotes_app.webapi\\fundoonotes_app.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|solutionrelative:fundoonotes_app.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|solutionrelative:fundoonotes_app.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.webapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA29D3D-4418-4F07-9BDD-A788AF09B8CE}|FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj|solutionrelative:fundoonotes_app.webapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8129FC0D-802B-42E6-8036-CEB6C2B78DCC}|FunDooNotes_App.DAL\\FunDooNotes_App.DAL.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8129FC0D-802B-42E6-8036-CEB6C2B78DCC}|FunDooNotes_App.DAL\\FunDooNotes_App.DAL.csproj|solutionrelative:fundoonotes_app.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8129FC0D-802B-42E6-8036-CEB6C2B78DCC}|FunDooNotes_App.DAL\\FunDooNotes_App.DAL.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.dal\\repositories\\userrepositorydummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +107,6 @@
       "RelativeMoniker": "D:0:0:{1429F573-E40A-48EC-9401-474A18775C3F}|FunDooNotes_App.BLL\\FunDooNotes_App.BLL.csproj|solutionrelative:fundoonotes_app.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8129FC0D-802B-42E6-8036-CEB6C2B78DCC}|FunDooNotes_App.DAL\\FunDooNotes_App.DAL.csproj|c:\\users\\zaid ansari\\source\\repos\\fundoonotes_app\\fundoonotes_app.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8129FC0D-802B-42E6-8036-CEB6C2B78DCC}|FunDooNotes_App.DAL\\FunDooNotes_App.DAL.csproj|solutionrelative:fundoonotes_app.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.ConsoleApp\\FunDooNotes_App.ConsoleApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FunDooNotes_App.ConsoleApp\\FunDooNotes_App.ConsoleApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -98,8 +122,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250301060741_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Migrations\\20250301060741_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\Migrations\\20250301060741_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Migrations\\20250301060741_InitialCreate.cs",
+              "RelativeToolTip": "FunDooNotes_App.WebAPI\\Migrations\\20250301060741_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:07:41.794Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -107,6 +144,149 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "FunDooNotes_App.WebAPI\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:18:33.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "FunDooNotes_App.WebAPI\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:54:16.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FunDooNotes_App.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:31:47.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\appsettings.json",
+              "RelativeToolTip": "FunDooNotes_App.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T06:33:39.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Program.cs",
+              "RelativeToolTip": "FunDooNotes_App.WebAPI\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:54:48.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FunDooNotes_App.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj",
+              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj",
+              "RelativeToolTip": "FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T09:45:14.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "FunDooNotes_App.WebAPI\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:23:17.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "FunDooNotes_App.WebAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:33:03.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FunDooNotes_App.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:53:34.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Class1.cs",
+              "RelativeToolTip": "FunDooNotes_App.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:27:46.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepositoryDummy.cs",
+              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Repositories\\UserRepositoryDummy.cs",
+              "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\Repositories\\UserRepositoryDummy.cs",
+              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Repositories\\UserRepositoryDummy.cs",
+              "RelativeToolTip": "FunDooNotes_App.DAL\\Repositories\\UserRepositoryDummy.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:01:28.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\Repositories\\UserRepository.cs",
@@ -119,85 +299,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepositoryDummy.cs",
-              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Repositories\\UserRepositoryDummy.cs",
-              "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\Repositories\\UserRepositoryDummy.cs",
-              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Repositories\\UserRepositoryDummy.cs",
-              "RelativeToolTip": "FunDooNotes_App.DAL\\Repositories\\UserRepositoryDummy.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T16:01:28.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FunDooNotes_App.WebAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj",
-              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj",
-              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj",
-              "RelativeToolTip": "FunDooNotes_App.WebAPI\\FunDooNotes_App.WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-27T09:45:14.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "FunDooNotes_App.WebAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:53:34.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NotesController.cs",
-              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Controllers\\NotesController.cs",
-              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\Controllers\\NotesController.cs",
-              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Controllers\\NotesController.cs",
-              "RelativeToolTip": "FunDooNotes_App.WebAPI\\Controllers\\NotesController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:54:16.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "FunDooNotes_App.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.WebAPI\\Program.cs",
-              "RelativeToolTip": "FunDooNotes_App.WebAPI\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:54:48.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\Repositories\\Repository.cs",
               "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Repositories\\Repository.cs",
               "RelativeToolTip": "FunDooNotes_App.DAL\\Repositories\\Repository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:49:06.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\Repositories\\IUserRepository.cs",
@@ -210,59 +325,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\Repositories\\IRepository.cs",
               "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Repositories\\IRepository.cs",
               "RelativeToolTip": "FunDooNotes_App.DAL\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:48:40.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Entities\\User.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Entities\\User.cs",
               "RelativeToolTip": "FunDooNotes_App.DAL\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:46:58.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Entities\\Note.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\Entities\\Note.cs",
               "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Entities\\Note.cs",
               "RelativeToolTip": "FunDooNotes_App.DAL\\Entities\\Note.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:47:31.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "FunDooNotes_App.DAL\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:47:58.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "FunDooNotes_App.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\FunDooNotes_App.DAL.csproj",
               "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\FunDooNotes_App.DAL.csproj",
@@ -275,33 +390,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.BLL\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.BLL\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.BLL\\Services\\UserService.cs",
               "RelativeToolTip": "FunDooNotes_App.BLL\\Services\\UserService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:51:57.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "NoteService.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.BLL\\Services\\NoteService.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.BLL\\Services\\NoteService.cs",
               "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.BLL\\Services\\NoteService.cs",
               "RelativeToolTip": "FunDooNotes_App.BLL\\Services\\NoteService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:52:29.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.BLL\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.BLL\\Interfaces\\IUserService.cs",
@@ -314,20 +429,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "INoteService.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.BLL\\Interfaces\\INoteService.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.BLL\\Interfaces\\INoteService.cs",
               "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.BLL\\Interfaces\\INoteService.cs",
               "RelativeToolTip": "FunDooNotes_App.BLL\\Interfaces\\INoteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:51:16.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "FunDooNotes_App.BLL.csproj",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.BLL\\FunDooNotes_App.BLL.csproj",
               "RelativeDocumentMoniker": "FunDooNotes_App.BLL\\FunDooNotes_App.BLL.csproj",
@@ -340,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "FunDooNotes_App.ConsoleApp.csproj",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.ConsoleApp\\FunDooNotes_App.ConsoleApp.csproj",
               "RelativeDocumentMoniker": "FunDooNotes_App.ConsoleApp\\FunDooNotes_App.ConsoleApp.csproj",
@@ -348,11 +463,12 @@
               "RelativeToolTip": "FunDooNotes_App.ConsoleApp\\FunDooNotes_App.ConsoleApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-27T11:52:19.459Z"
+              "WhenOpened": "2025-02-27T11:52:19.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.ConsoleApp\\Program.cs",
@@ -360,11 +476,12 @@
               "RelativeToolTip": "FunDooNotes_App.ConsoleApp\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T11:50:27.927Z"
+              "WhenOpened": "2025-02-27T11:50:27.927Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.BLL\\Class1.cs",
               "RelativeDocumentMoniker": "FunDooNotes_App.BLL\\Class1.cs",
@@ -372,19 +489,8 @@
               "RelativeToolTip": "FunDooNotes_App.BLL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:29:21.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "FunDooNotes_App.DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Zaid Ansari\\source\\repos\\FunDooNotes_App\\FunDooNotes_App.DAL\\Class1.cs",
-              "RelativeToolTip": "FunDooNotes_App.DAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:27:46.958Z"
+              "WhenOpened": "2025-02-27T09:29:21.56Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,4 +1,3 @@
-// FunDooNotes_App.WebAPI/Program.cs
 using FunDooNotes_App.DAL;
 using FunDooNotes_App.DAL.Repositories;
 using FunDooNotes_App.BLL.Interfaces;
@@ -12,9 +11,13 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Configure EF Core with InMemory database
+// Configure EF Core with SQL Server (permanent database)
+// Ensure the proper connection string is set in appsettings.json
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseInMemoryDatabase("FunDooNotesDb"));
+    options.UseSqlServer(
+        builder.Configuration.GetConnectionString("DefaultConnection"),
+        sqlOptions => sqlOptions.MigrationsAssembly("FunDooNotes_App.WebAPI")
+    ));
 
 // Register repositories
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));

@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "FunDooNotes_App.WebAPI.Controllers.LoginRequest",
+        "Type": "FunDooNotes_App.WebAPI.Models.LoginRequest",
         "IsRequired": true
       }
     ],
@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "FunDooNotes_App.WebAPI.Controllers.RegisterRequest",
+        "Type": "FunDooNotes_App.WebAPI.Models.RegisterRequest",
         "IsRequired": true
       }
     ],
